@@ -3,3 +3,4 @@ First.git
 consolidado - commited;
 modificado - modified;
 preparado - staged;
+ALTERADO
