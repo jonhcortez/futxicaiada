@@ -3,4 +3,31 @@ First.git
 consolidado - commited;
 modificado - modified;
 preparado - staged;
-ALTERADO
+
+
+git add [nome arquivo.ext]
+git statys - vverifica os status
+git reset HEAD [nome arquivo.ext]
+
+git commit -m  = caso nao for colocar mensagem, via editor[]
+git commit -m "<Comit inicial>"
+
+git log //mostra todos os comimts feitos
+git log --oneline //mostra apenas os titulos
+
+git checkout master //retorna para a master
+
+git checkout branch //retorna para a branch
+
+git checkout -b branch //cria rmificação do repositorio
+
+git branch --delete <[nome]>
+
+git merge [nome da branch] // para inserir a branch hna master
+
+git branch -d [nome brach]
+
+
+git clone url-do-projeto
+
+.gitignore //local onde fica os itens que serão ignorados para o commit
