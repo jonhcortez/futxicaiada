@@ -19,7 +19,7 @@ git checkout master //retorna para a master
 
 git checkout branch //retorna para a branch
 
-git checkout -b branch //cria rmificaÁ„o do repositorio
+git checkout -b branch //cria rmifica√ß√£o do repositorio
 
 git branch --delete <[nome]>
 
@@ -30,4 +30,7 @@ git branch -d [nome brach]
 
 git clone url-do-projeto
 
-.gitignore //local onde fica os itens que ser„o ignorados para o commit
+.gitignore //local onde fica os itens que ser√£o ignorados para o commit
+
+git push  //empurra
+git pull //recupera
