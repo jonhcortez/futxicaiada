@@ -4,7 +4,6 @@ consolidado - commited;
 modificado - modified;
 preparado - staged;
 
-
 git add [nome arquivo.ext]
 git statys - vverifica os status
 git reset HEAD [nome arquivo.ext]
